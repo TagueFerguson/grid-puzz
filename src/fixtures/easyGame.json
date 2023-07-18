@@ -1,0 +1,49 @@
+{
+    "words": [
+        {
+            "words": [
+                "plum",
+                "mustard",
+                "scarlett",
+                "white"
+            ],
+            "explanation": "Cluedo characters"
+        },
+        {
+            "words": [
+                "Germany",
+                "UK",
+                "France",
+                "Spain"
+            ],
+            "explanation": "Countries in Europe"
+        },
+        {
+            "words": [
+                "Pasta",
+                "Pizza",
+                "Risotto",
+                "Mozzarella"
+            ],
+            "explanation": "Italian food"
+        },
+        {
+            "words": [
+                "Mercedes",
+                "BMW",
+                "Audi",
+                "Wolkswagon"
+            ],
+            "explanation": "German car manufactureres"
+        },
+        {
+            "words": [
+                "Guitar",
+                "Violin",
+                "Fiddle",
+                "Cello"
+            ],
+            "explanation": "Stringed instruments"
+        }
+    ]
+}
